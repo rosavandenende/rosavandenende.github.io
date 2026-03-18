@@ -4,6 +4,7 @@ description: "Given talks at conferences and seminars"
 ---
 
 ## 2025 
+- European Commission Seminar, DG Economic and Financial Affairs and Joint Research Centre - Brussels, Belgium, 15-12-2025
 -  20th European Meeting on Game Theory [(SING)](https://sites.google.com/view/sing20) - Maastricht, the Netherlands, June 16-18, 2025
 - 28th Coalition Theory Network [(CTN)](https://ctn2025.sciencesconf.org) - Paris, France, May 22-23, 2025
 - Janeway Institute PhD Workshop on Economic Networks, Cambridge, United Kingdom, May 26-27, 2025 (upon invitation)
