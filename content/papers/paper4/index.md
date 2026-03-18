@@ -1,9 +1,9 @@
 ---
-title: "Strategic environmental responsibility in networks"
+title: "Strategic behaviour under network-based responsibility for greenhouse gas emissions"
 #date: 2024-01-01
 tags: ["emission responsibility","game theory","Bonacich centrality"]
 author: ["Rosa van den Ende (2025)"]
-description: "[Work in progress] We evaluate the effect of changing the underlying network structure on the responsibility allocation, and we investigate how we can use this to achieve the emisison reduction goals of the Paris Agreement. "
+description: "[Work in progress, available upon request.] We evaluate the effect of changing the underlying network structure on the responsibility allocation, and we investigate how we can use this to achieve the emisison reduction goals of the Paris Agreement. "
 summary: "We evaluate the effect of changing the underlying network structure on the responsibility allocation, and we investigate how we can use this to achieve the emisison reduction goals of the Paris Agreement." 
 #cover:
  #   image: "paper2.png"
