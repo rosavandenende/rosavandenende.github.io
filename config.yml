@@ -57,7 +57,7 @@ params:
           imageHeight: 160
           imageTitle: Rosa van den Ende
           buttons:
-            - name: Publications
+            - name: Research
               url: papers/
             # - name: Courses
             #   url: courses/
