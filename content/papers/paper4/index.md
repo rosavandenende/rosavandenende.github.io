@@ -14,25 +14,38 @@ summary: "We evaluate the effect of changing the underlying network structure on
     #Text: "Journal Name"
 ---
 
-<!-- ##### Abstract
+ ##### Abstract
 
-We provide an axiomatic approach to the allocation of responsibility for GHG emissions in supply chains. Considering a set of axioms standardly used in networks and decision theory, and consistent with legal principles underlying responsibility, we show that responsibility measures shall be based on exponential discounting of upstream and downstream emissions. From a network theory perspective, the proposed responsibility measure corresponds to a convex combination of the Bonacich centralities for the upstream and downstream weighted adjacency matrices. Scope 1 emissions, consumption-based accounting and income-based accounting are obtained as particular cases of our approach, which also gives a precise meaning to scope 3 emissions while avoiding double-counting. We apply our approach to the assessment of country-level responsibility for global GHG emissions and to sector-level responsibility in the USA. We examine how the responsibility of sectors/countries varies with the discounting of indirect emissions. We identify three groups of countries/sectors: producers of emissions whose responsibility decreases with the discounting factor, consumers of emissions whose responsibility increases with the discounting factor, and an intermediary group whose responsibility mostly depends on the network position and varies non-monotonically with the discounting factor. Overall, our axiomatic approach provides strong normative foundations for the definition of reporting requirements for indirect emissions and for the allocation of responsibility in claims for climate-related loss and damage. -->
+We take a network-based measure of emissions responsibility and investigate its implications
+for strategic behaviour and emissions reduction. The measure propagates direct emissions
+upstream through the network, allocating responsibility across agents according to their
+sourcing structure. We first study how responsibility responds to changes in the network,
+and then introduce the Emissions Responsibility Game (ERG), in which agents strategically
+choose their emission intensities and sourcing weights to minimize a cost that combines
+responsibility and abatement effort. When the network is fixed, we establish the existence
+of a unique Nash equilibrium and provide comparative statics with respect to abatement
+costs, baseline emissions, and the discount factor. When sourcing is endogenous, however,
+a closed-form characterization of the equilibrium vector appears analytically intractable
+due to nonlinear network feedbacks. We nevertheless derive a sufficient condition under
+which switching to a cleaner supplier reduces responsibility. Finally, we bring the model to
+data using global input-output tables from 1995–2020, examining changes in responsibility,
+centralization, and emissions reductions. Taken together, our results highlight how network-
+based responsibility can shape incentives for abatement and for sourcing from cleaner supply
+chains.
+
 
 ---
  <!-- ##### Download
 
 + [You can find the paper here.](https://shs.hal.science/halshs-04188365)
  <!-- [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing) -->
-
----
-
++ [Code and data](https://github.com/pmichaillat/job-rationing) --
 
 <!-- ##### 
 
 ![](paper2.png) The upstream (left) and downstream responsibility for direct and indirect carbon emissions for Brazil, Canada, Indonesia, South-Korea and France for different values of the discount factor.
 
---- --> -->
+--- -->
 
 <!-- -- ##### Citation
 

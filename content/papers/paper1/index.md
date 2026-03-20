@@ -1,5 +1,5 @@
 ---
-title: "Diffusion in dynamic networks with continuous inputs to allocate responsibility" 
+title: "Diffusion in dynamic networks with time-varying inputs to allocate responsibility" 
 #date: 2023-02-01
 tags: ["dynamic networks","Laplacian matrix","responsibility"]
 author: ["Rosa van den Ende and Dylan Laplace Mermoud (2025)"]
