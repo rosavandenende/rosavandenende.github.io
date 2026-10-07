@@ -28,7 +28,7 @@ Rosa van den Ende, Dylan Laplace Mermoud
 with Daniel Heyen, Florian Diekert, Frikk Nesje and Soheil Shayegh
 
 -  *Leontief matrices as stoichiometry: autocatalysis in input-output networks*  
-with Barnabé Ledoux, Silvia Montagnani and David Lacoste
+with Barnabé Ledoux, Silvia Montagnani, David Lacoste, Wolfram Liebermeister
 
 -  [*Strategic behaviour under network-based responsibility for greenhouse gas emissions*](paper4/)
 
