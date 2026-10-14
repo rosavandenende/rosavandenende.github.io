@@ -5,45 +5,7 @@
     <link>https://rosavandenende.github.io/</link>
     <description>Recent content on Rosa van den Ende</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rosavandenende.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dataset Title</title>
-      <link>https://rosavandenende.github.io/data/data1/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/data/data1/</guid>
-      <description>This dataset contains things.</description>
-    </item>
-    
-    <item>
-      <title>Course Name 1</title>
-      <link>https://rosavandenende.github.io/courses/course1/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/courses/course1/</guid>
-      <description>This graduate course presents various methods and results.</description>
-    </item>
-    
-    <item>
-      <title>Course Title 2</title>
-      <link>https://rosavandenende.github.io/courses/course2/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/courses/course2/</guid>
-      <description>This undergraduate course presents many new things.</description>
-    </item>
-    
-    
-    <item>
-      <title>Diffusion in Dynamic Networks with Continuous Inputs to Allocate Responsibility</title>
-      <link>https://rosavandenende.github.io/papers/paper1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/papers/paper1/</guid>
-      <description>We investigate how responsibility for any negative effect spreads in a dynamic network. Not just responsibility for carbon emissions, but also for example systemic risk.</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://rosavandenende.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Location</title>
       <link>https://rosavandenende.github.io/location/</link>
@@ -52,42 +14,6 @@
       <guid>https://rosavandenende.github.io/location/</guid>
       <description>Office address Centre d&amp;rsquo;Économie de la Sorbonne (office 503) Université Paris I Panthéon-Sorbonne 106-112 Boulevard de l&amp;rsquo;Hôpital, 75013 Paris France
 On the map: </description>
-    </item>
-    
-    <item>
-      <title>Network-based allocation of responsibility for GHG emissions</title>
-      <link>https://rosavandenende.github.io/papers/paper2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/papers/paper2/</guid>
-      <description>In this paper we allocate responsibilities for GHG emissions in a network.</description>
-    </item>
-    
-    <item>
-      <title>Office Hours</title>
-      <link>https://rosavandenende.github.io/officehours/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/officehours/</guid>
-      <description>Schedule and location for office hours.</description>
-    </item>
-    
-    <item>
-      <title>Strategic environmental responsibility in networks</title>
-      <link>https://rosavandenende.github.io/papers/paper4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/papers/paper4/</guid>
-      <description>[Work in progress] We evaluate the effect of changing the underlying network structure on the responsibility allocation, and we investigate how we can use this to achieve the emisison reduction goals of the Paris Agreement. </description>
-    </item>
-    
-    <item>
-      <title>The quantum state reduction of general intital states through spontaneous unitarity violation</title>
-      <link>https://rosavandenende.github.io/papers/paper3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/papers/paper3/</guid>
-      <description>This paper shows other things. Published in Journal Name, 2015.</description>
     </item>
     
   </channel>

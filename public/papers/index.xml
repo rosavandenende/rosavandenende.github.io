@@ -1,46 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Papers on Rosa van den Ende</title>
+    <title>Research on Rosa van den Ende</title>
     <link>https://rosavandenende.github.io/papers/</link>
-    <description>Recent content in Papers on Rosa van den Ende</description>
+    <description>Recent content in Research on Rosa van den Ende</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://rosavandenende.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Diffusion in Dynamic Networks with Continuous Inputs to Allocate Responsibility</title>
-      <link>https://rosavandenende.github.io/papers/paper1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/papers/paper1/</guid>
-      <description>We investigate how responsibility for any negative effect spreads in a dynamic network. Not just responsibility for carbon emissions, but also for example systemic risk.</description>
-    </item>
-    
-    <item>
-      <title>Network-based allocation of responsibility for GHG emissions</title>
-      <link>https://rosavandenende.github.io/papers/paper2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/papers/paper2/</guid>
-      <description>In this paper we allocate responsibilities for GHG emissions in a network.</description>
-    </item>
-    
-    <item>
-      <title>Strategic behaviour under network-based responsibility for greenhouse gas emissions</title>
-      <link>https://rosavandenende.github.io/papers/paper4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/papers/paper4/</guid>
-      <description>[Work in progress, available upon request]  We evaluate the effect of changing the underlying network structure on the responsibility allocation, and we investigate how we can use this to achieve the emisison reduction goals of the Paris Agreement. </description>
-    </item>
-    
-    <item>
-      <title>The quantum state reduction of general intital states through spontaneous unitarity violation</title>
-      <link>https://rosavandenende.github.io/papers/paper3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rosavandenende.github.io/papers/paper3/</guid>
-      <description>This paper shows other things. Published in Journal Name, 2015.</description>
-    </item>
-    
   </channel>
 </rss>

@@ -18,14 +18,14 @@ menu:
           url: talks/
           weight: 2
         - name: Resume
-          url: cv_rosa_032026.pdf
+          url: cv.pdf
           weight: 3 
         # - name: Photography
         #   url: https://pmichaillat.substack.com
         #   weight: 4
 
 params:
-    description: "I am a PhD Candidate in Mathematical and Environmental Economics."
+    description: ""
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -69,16 +69,16 @@ params:
             - name: Talks
               url: talks/
             - name: Resume
-              url: cv_rvde_2026.pdf
+              url: cv.pdf
             #- name: Archive
             #  url: archive/
     socialIcons:
         # - name: CV
         #   url: cv_rosa.pdf
         - name: Email
-          url: mailto:rosa.van-den-ende@univ-paris1.fr
-        - name: Location
-          url: location/
+          url: mailto:r.ende@rptu.de
+        #- name: Location
+        #  url: location/
     
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=jwrYE5sAAAAJ&hl=fr
